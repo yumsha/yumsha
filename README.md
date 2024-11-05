@@ -1,4 +1,4 @@
-[![MasterHead] (https://i.pinimg.com/originals/56/e5/97/56e597a70e4651eb9c91ef7b77c1b224.gif)](https://github.com/yumsha)
+<img align="center" alt="banner" src="https://i.pinimg.com/originals/56/e5/97/56e597a70e4651eb9c91ef7b77c1b224.gif">
 <h1 align="center">Hi 👋, I'm Muhamad Riza Pahlevi</h1>
 <h3 align="center">A beginner front-end developer from Depok.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/AvrTj5rRdNXovX34AU/200w.gif?cid=82a1493b0l0eak5fwk1abvrcu01nzoahqdf10qnvc9x10yxm&ep=v1_gifs_related&rid=200w.gif&ct=g">
