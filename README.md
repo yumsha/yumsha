@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamad Riza Pahlevi</h1>
 <h3 align="center">A beginner front-end developer from Depok.</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently studying on [SMK TARUNA BHAKTI](https://smktarunabhakti.net/)
 
