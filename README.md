@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamad Riza Pahlevi</h1>
 <h3 align="center">A beginner front-end developer from Depok.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/AvrTj5rRdNXovX34AU/200w.gif?cid=82a1493b0l0eak5fwk1abvrcu01nzoahqdf10qnvc9x10yxm&ep=v1_gifs_related&rid=200w.gif&ct=g">
 - 🔭 I’m currently studying on [SMK TARUNA BHAKTI](https://smktarunabhakti.net/)
 
 - 🌱 I’m currently learning **Dart, JS, Flutter**
