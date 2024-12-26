@@ -4,21 +4,19 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/AvrTj5rRdNXovX34AU/200w.gif?cid=82a1493b0l0eak5fwk1abvrcu01nzoahqdf10qnvc9x10yxm&ep=v1_gifs_related&rid=200w.gif&ct=g">
 - 🔭 I’m currently studying on [SMK TARUNA BHAKTI](https://smktarunabhakti.net/)
 
-- 🌱 I’m currently learning **Dart, JS, Flutter**
+- 🌱 I’m currently learning **Dart, JS, Flutter, PHP**
 
-- 🤝 I’m looking for help with **Flutter, Dart**
+- 🤝 I’m looking for help with **Flutter, Dart, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yumsha](https://github.com/yumsha)
 
 - 📝 I regularly write articles on [https://github.com/yumsha](https://github.com/yumsha)
 
-- 💬 Ask me about **JS, Dart, or something else :]**
-
 - 📫 How to reach me **muhamadrizapahlevi12@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/yumsha](https://github.com/yumsha)
 
-- ⚡ Fun fact **I can learning fast, except history.**
+- ⚡ Fun fact **I can learning fast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
