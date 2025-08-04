@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhamad Riza Pahlevi</h1>
 <p align="center"><i>Let's build our brilliant ideas from a code.</i></p>
 
+<br>
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
