@@ -20,8 +20,12 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/motoko-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNnB4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMCA1LjAxbC0yLjc0IDIuNDItMi44NS0yLjQxTDExLjkgOC40bC0yLjU5LTIuMzUgLTIuOSAyLjQ2TDMuMjUgNS4wOWwtMi4yIDIuNDQgNi45IDYuMzUgMi4zMy0yLjAzIDIuMyAyLjAzIDYuOTQtNi4zNXoiLz48L3N2Zz4=&logoColor=white" />
 </p>
-
 
 <p align="center">
   <a href="https://behance.net/yumsha"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
