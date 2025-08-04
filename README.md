@@ -3,13 +3,6 @@
 
 ---
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://behance.net/yumsha"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-  <a href="https://instagram.com/phlvrza"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@yumsha"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-</p>
-
 ---
 
 ## 💻 Tech Stack:
@@ -43,5 +36,9 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yumsha&icon=0&color=0" alt="Profile View Counter" />
+  <a href="https://behance.net/yumsha"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
+  <a href="https://instagram.com/phlvrza"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@yumsha"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 </p>
+
+---
