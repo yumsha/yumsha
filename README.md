@@ -1,7 +1,8 @@
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=yumsha&theme=dark&hide_border=true&border_radius=8&card_width=1000&card_height=300" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yumsha&theme=highcontrast&hide_border=true" 
     alt="GitHub Streak"
+    width="100%"
   />
 </p>
 
