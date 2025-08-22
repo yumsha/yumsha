@@ -4,10 +4,10 @@
     alt="GitHub Streak"
   />
 </p>
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yumsha/yumsha/output/github-contribution-grid-snake-dark.svg" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yumsha&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumsha&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/>
 </p>
-
 
 
 
