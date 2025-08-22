@@ -28,6 +28,3 @@
   <a href="https://instagram.com/phlvrza"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@yumsha"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 </p>
-
-Update at 2025-08-22 14:26:12
-Update at 2025-08-22 14:27:21
