@@ -4,10 +4,18 @@
     alt="GitHub Streak"
   />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yumsha&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumsha&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yumsha&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" 
+    width="49%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumsha&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" 
+    width="49%" 
+  />
 </p>
+
 
 
 
