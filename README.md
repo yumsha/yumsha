@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhamad Riza Pahlevi</h1>
-<p align="center"><i>I just wanna make Ideas into Reality</i></p>
+<h1 align="center">I made Ideas into Reality</h1>
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=yumsha&theme=dark&hide_border=true&border_radius=8&card_width=1000&card_height=300" 
     alt="GitHub Streak"
   />
 </p>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 
 
 <br>
