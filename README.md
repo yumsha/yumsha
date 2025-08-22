@@ -12,7 +12,7 @@
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumsha&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" 
-    width="39%" 
+    width="38%" 
   />
 </p>
 
