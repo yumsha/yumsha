@@ -4,7 +4,10 @@
     alt="GitHub Streak"
   />
 </p>
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yumsha/yumsha/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 
 
