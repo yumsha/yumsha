@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhamad Riza Pahlevi</h1>
-<p align="center"><i>Let's build our brilliant ideas from a code.</i></p>
+<p align="center"><i>I just wanna make Ideas into Reality</i></p>
 
 <br>
 <br>
 <br>
 
 <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yumsha&theme=shadow_red&hide_border=false" height="600" />
   <img src="https://github-readme-stats.vercel.app/api?username=yumsha&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" height="200" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yumsha&theme=shadow_red&hide_border=false" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumsha&theme=shadow_red&hide_border=false&layout=compact" height="200" />
 </p>
 
 <br>
