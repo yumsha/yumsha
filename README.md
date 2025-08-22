@@ -6,8 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yumsha&theme=shadow_red&hide_border=false" height="2000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yumsha&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yumsha&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </p>
 
 <br>
